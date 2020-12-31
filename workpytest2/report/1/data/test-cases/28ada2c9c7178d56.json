@@ -1,0 +1,110 @@
+{
+  "uid" : "28ada2c9c7178d56",
+  "name" : "test_caladd[getdataadd3]",
+  "fullName" : "test_calculator.Testcalcultor#test_caladd",
+  "historyId" : "d4c5017d50ee05e32711c4d40843b280",
+  "time" : {
+    "start" : 1609387797810,
+    "stop" : 1609387797811,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "frist",
+    "time" : {
+      "start" : 1609387797764,
+      "stop" : 1609387797764,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "getdataadd",
+    "time" : {
+      "start" : 1609387797810,
+      "stop" : 1609387797810,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "frist::0",
+    "time" : {
+      "start" : 1609387797946,
+      "stop" : 1609387797946,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试加法"
+  }, {
+    "name" : "feature",
+    "value" : "测试计算器"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcalcultor"
+  }, {
+    "name" : "host",
+    "value" : "MS-20161203XRNU"
+  }, {
+    "name" : "thread",
+    "value" : "8448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getdataadd",
+    "value" : "[-9.4536, -9.55, -19.0036]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "28ada2c9c7178d56.json",
+  "parameterValues" : [ "[-9.4536, -9.55, -19.0036]" ]
+}

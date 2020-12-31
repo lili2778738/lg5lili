@@ -1,0 +1,96 @@
+{
+  "uid" : "12a6aa25e68909ca",
+  "name" : "test_caldiv[getdatadiv5]",
+  "fullName" : "test_calculator.Testcalcultor#test_caldiv",
+  "historyId" : "e980caf05a767240bb5600caf2b52d4d",
+  "time" : {
+    "start" : 1609387797942,
+    "stop" : 1609387797943,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getdatadiv",
+    "time" : {
+      "start" : 1609387797941,
+      "stop" : 1609387797941,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "927100e4b2eefb80",
+      "name" : "stdout",
+      "source" : "927100e4b2eefb80.txt",
+      "type" : "text/plain",
+      "size" : 54
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试除法"
+  }, {
+    "name" : "feature",
+    "value" : "测试计算器"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=4)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcalcultor"
+  }, {
+    "name" : "host",
+    "value" : "MS-20161203XRNU"
+  }, {
+    "name" : "thread",
+    "value" : "8448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getdatadiv",
+    "value" : "['a', 'b', '']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=4)" ]
+  },
+  "source" : "12a6aa25e68909ca.json",
+  "parameterValues" : [ "['a', 'b', '']" ]
+}

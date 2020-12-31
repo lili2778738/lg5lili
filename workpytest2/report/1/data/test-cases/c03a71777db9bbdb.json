@@ -1,0 +1,96 @@
+{
+  "uid" : "c03a71777db9bbdb",
+  "name" : "test_caldiv[getdatadiv4]",
+  "fullName" : "test_calculator.Testcalcultor#test_caldiv",
+  "historyId" : "a7feef38a9e3b64c62682bf979412ec5",
+  "time" : {
+    "start" : 1609387797934,
+    "stop" : 1609387797935,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getdatadiv",
+    "time" : {
+      "start" : 1609387797933,
+      "stop" : 1609387797933,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "cc35fb05b2b36f07",
+      "name" : "stdout",
+      "source" : "cc35fb05b2b36f07.txt",
+      "type" : "text/plain",
+      "size" : 41
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试除法"
+  }, {
+    "name" : "feature",
+    "value" : "测试计算器"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=4)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcalcultor"
+  }, {
+    "name" : "host",
+    "value" : "MS-20161203XRNU"
+  }, {
+    "name" : "thread",
+    "value" : "8448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getdatadiv",
+    "value" : "['', 1, '']"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=4)" ]
+  },
+  "source" : "c03a71777db9bbdb.json",
+  "parameterValues" : [ "['', 1, '']" ]
+}

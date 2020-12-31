@@ -1,0 +1,80 @@
+{
+  "uid" : "bdd24a7e114cb06e",
+  "name" : "test_calmul[getdatamul3]",
+  "fullName" : "test_calculator.Testcalcultor#test_calmul",
+  "historyId" : "8df31ae388fb924dbda5c9d4b156d8e5",
+  "time" : {
+    "start" : 1609387797887,
+    "stop" : 1609387797888,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "getdatamul",
+    "time" : {
+      "start" : 1609387797887,
+      "stop" : 1609387797887,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试乘法"
+  }, {
+    "name" : "feature",
+    "value" : "测试计算器"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "suite",
+    "value" : "test_calculator"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testcalcultor"
+  }, {
+    "name" : "host",
+    "value" : "MS-20161203XRNU"
+  }, {
+    "name" : "thread",
+    "value" : "8448-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calculator"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "getdatamul",
+    "value" : "[89556, 623332, 55823120592]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "bdd24a7e114cb06e.json",
+  "parameterValues" : [ "[89556, 623332, 55823120592]" ]
+}
