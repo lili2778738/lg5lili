@@ -1,0 +1,11 @@
+handle:
+   - by: id
+     lactor: "com.xueqiu.android:id/post_status"
+     action: click
+   - by: id
+     lactor: "com.xueqiu.android:id/tv_search"
+     action: click
+search:
+   - by: id
+     lactor: "com.xueqiu.android:id/tv_search"
+     action: click
